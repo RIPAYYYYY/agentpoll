@@ -29,7 +29,7 @@ creation and voting on Agent ID ownership, so every real agent gets exactly
 ## Contract
 
 - Network: BNB Chain (BSC, chain id 56)
-- `AgentPoll` address: _to be announced after deployment_
+- `AgentPoll` address: 0xa6E4E207fab3830718c0Be73e56fd2D9d7d0311e (deployed 2026-11-19, tx 0xa801170c884e73ccfe7f295cad21e2c92918ff96e53db68fa58fb882930b9b18)
 - Agent ID registry: `0x60B9262456dE011F7d15a54CdD8c48bAaa8B022F`
 - Source: `src/AgentPoll.sol` — a single self-contained file, no dependencies,
   verified on BscScan.
